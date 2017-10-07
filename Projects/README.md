@@ -22,3 +22,5 @@ For anyone who finds this too easy:
   * Try making a fish with pure HTML and CSS. Trying adding a [cool pattern](http://lea.verou.me/css3patterns/) with pure HTML and CSS
   * Try incorporating Javascript code to make their fish move from side to side
   * Try using the `z-index` property to arrange different fish, castles, and seaweeds
+
+I recommend trying this one without any starter code, but I've included a [minimal example](aquarium) with Javascript to make the fish move.
