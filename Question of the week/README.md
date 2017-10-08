@@ -22,3 +22,4 @@ _*The winner always got a prize, so even if there is no right answer..._
 * "Name two things inside any computer" Show this video after: [Inside your computer - Bettina Bair](https://www.youtube.com/watch?v=AkFi90lZmXA)
 * "What is an important difference between Internet Explorer, Google Chrome, Firefox, or Safari?"
   [One possible answer](https://youtu.be/0_RRqO16VGk?t=1m10s)
+* "How do you choose a good password?"
