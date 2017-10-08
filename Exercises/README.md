@@ -50,20 +50,24 @@ A: "You need quoutes around the source!"
 
 After the kids were confident in writing HTML and CSS by themselves, I challenged them to recreate some iconic designs from scratch.
 This exercise involves using different tags and styles, as well as applying margins/padding to elements.
+Below are the images I gave them:
 
-
+#### A Google Search result
 <p align="center">
 <img src="google.png">
 </p>
 
+#### A single tweet
 <p align="center">
 <img src="twitter.png">
 </p>
 
+#### A Youtube video
 <p align="center">
 <img src="youtube.png">
 </p>
 
+#### A video thumbnail on Vine
 <p align="center">
 <img src="vine.png">
 </p>
